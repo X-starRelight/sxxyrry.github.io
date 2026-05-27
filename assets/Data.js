@@ -36,10 +36,10 @@ const projectsData = [
 const teamMembersData = [
     {
         id: 1,
-        name: "是星星与然然呀 sxxyrry",
+        name: "星燃_X-starRelight",
         role: "工作室室长",
-        sign: "/** 星辰为引，落英（初开的花）编程，把兴趣玩出名堂。 */",
-        skills: ["Vue.js", "Node.js", "Python", "flask", "Golang", "Rust"],
+        sign: "欣喜依然，星河仍燃。",
+        skills: ["Vue.js", "Web", "Node.js/ts", "Python", "flask", "Golang", "Rust"],
         avatar: "https://images-sxxyrry.pages.dev/sxxyrryAvatar.jpg",
         link: [
             {
